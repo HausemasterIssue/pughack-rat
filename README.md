@@ -1,5 +1,5 @@
 # pughack-rat
-hi pugman LOL
+[hi pugman LOL](https://pastebin.com/dtk7qZ8W)
 
 THIS IS A RAT LOL!
 
